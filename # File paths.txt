@@ -1,0 +1,3 @@
+# File paths
+input_file = "C:\\EDI 7th SEM\\Datasets\\test\\_annotations.coco.json"  # Replace with your input file path
+output_file = "C:\\EDI 7th SEM\\Datasets\\output.json"  # Replace with your output file path

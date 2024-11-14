@@ -1,0 +1,803 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 122589347,
+            "classId": 6510459,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.686Z",
+            "updatedAt": "2024-01-06T16:11:22.686Z",
+            "tags": [
+                {
+                    "id": 89756692,
+                    "tagId": 28879,
+                    "name": "general defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.685Z",
+                    "updatedAt": "2024-01-06T16:11:22.685Z"
+                }
+            ],
+            "classTitle": "rust",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        550
+                    ],
+                    [
+                        39,
+                        538
+                    ],
+                    [
+                        206,
+                        624
+                    ],
+                    [
+                        290,
+                        679
+                    ],
+                    [
+                        274,
+                        821
+                    ],
+                    [
+                        219,
+                        959
+                    ],
+                    [
+                        0,
+                        959
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589346,
+            "classId": 6510467,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.685Z",
+            "updatedAt": "2024-01-06T16:11:22.685Z",
+            "tags": [
+                {
+                    "id": 89756691,
+                    "tagId": 28880,
+                    "name": "concrete defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.685Z",
+                    "updatedAt": "2024-01-06T16:11:22.685Z"
+                }
+            ],
+            "classTitle": "restformwork",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        166
+                    ],
+                    [
+                        153,
+                        214
+                    ],
+                    [
+                        256,
+                        229
+                    ],
+                    [
+                        879,
+                        355
+                    ],
+                    [
+                        899,
+                        323
+                    ],
+                    [
+                        893,
+                        244
+                    ],
+                    [
+                        771,
+                        164
+                    ],
+                    [
+                        375,
+                        79
+                    ],
+                    [
+                        162,
+                        68
+                    ],
+                    [
+                        53,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589345,
+            "classId": 6510465,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.685Z",
+            "updatedAt": "2024-01-06T16:11:22.685Z",
+            "tags": [
+                {
+                    "id": 89756690,
+                    "tagId": 28880,
+                    "name": "concrete defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.685Z",
+                    "updatedAt": "2024-01-06T16:11:22.685Z"
+                }
+            ],
+            "classTitle": "spalling",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        203
+                    ],
+                    [
+                        103,
+                        153
+                    ],
+                    [
+                        175,
+                        120
+                    ],
+                    [
+                        169,
+                        38
+                    ],
+                    [
+                        93,
+                        23
+                    ],
+                    [
+                        0,
+                        53
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589344,
+            "classId": 6510459,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.684Z",
+            "updatedAt": "2024-01-06T16:11:22.684Z",
+            "tags": [
+                {
+                    "id": 89756689,
+                    "tagId": 28879,
+                    "name": "general defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.684Z",
+                    "updatedAt": "2024-01-06T16:11:22.684Z"
+                }
+            ],
+            "classTitle": "rust",
+            "points": {
+                "exterior": [
+                    [
+                        66,
+                        60
+                    ],
+                    [
+                        88,
+                        120
+                    ],
+                    [
+                        134,
+                        136
+                    ],
+                    [
+                        169,
+                        109
+                    ],
+                    [
+                        158,
+                        60
+                    ],
+                    [
+                        143,
+                        110
+                    ],
+                    [
+                        106,
+                        112
+                    ],
+                    [
+                        88,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589343,
+            "classId": 6510459,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.684Z",
+            "updatedAt": "2024-01-06T16:11:22.684Z",
+            "tags": [
+                {
+                    "id": 89756688,
+                    "tagId": 28879,
+                    "name": "general defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.684Z",
+                    "updatedAt": "2024-01-06T16:11:22.684Z"
+                }
+            ],
+            "classTitle": "rust",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        192
+                    ],
+                    [
+                        408,
+                        227
+                    ],
+                    [
+                        593,
+                        231
+                    ],
+                    [
+                        675,
+                        225
+                    ],
+                    [
+                        793,
+                        235
+                    ],
+                    [
+                        855,
+                        257
+                    ],
+                    [
+                        988,
+                        233
+                    ],
+                    [
+                        1019,
+                        242
+                    ],
+                    [
+                        1007,
+                        280
+                    ],
+                    [
+                        1102,
+                        359
+                    ],
+                    [
+                        1168,
+                        332
+                    ],
+                    [
+                        1166,
+                        258
+                    ],
+                    [
+                        1188,
+                        165
+                    ],
+                    [
+                        1279,
+                        189
+                    ],
+                    [
+                        1279,
+                        41
+                    ],
+                    [
+                        1105,
+                        107
+                    ],
+                    [
+                        1165,
+                        0
+                    ],
+                    [
+                        850,
+                        0
+                    ],
+                    [
+                        821,
+                        59
+                    ],
+                    [
+                        736,
+                        79
+                    ],
+                    [
+                        703,
+                        16
+                    ],
+                    [
+                        658,
+                        3
+                    ],
+                    [
+                        580,
+                        60
+                    ],
+                    [
+                        521,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589342,
+            "classId": 6510462,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.683Z",
+            "updatedAt": "2024-01-06T16:11:22.683Z",
+            "tags": [
+                {
+                    "id": 89756687,
+                    "tagId": 28880,
+                    "name": "concrete defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.683Z",
+                    "updatedAt": "2024-01-06T16:11:22.683Z"
+                }
+            ],
+            "classTitle": "efflorescence",
+            "points": {
+                "exterior": [
+                    [
+                        740,
+                        335
+                    ],
+                    [
+                        732,
+                        448
+                    ],
+                    [
+                        775,
+                        694
+                    ],
+                    [
+                        877,
+                        935
+                    ],
+                    [
+                        910,
+                        914
+                    ],
+                    [
+                        877,
+                        794
+                    ],
+                    [
+                        901,
+                        690
+                    ],
+                    [
+                        864,
+                        614
+                    ],
+                    [
+                        806,
+                        573
+                    ],
+                    [
+                        799,
+                        509
+                    ],
+                    [
+                        808,
+                        431
+                    ],
+                    [
+                        836,
+                        416
+                    ],
+                    [
+                        851,
+                        496
+                    ],
+                    [
+                        916,
+                        544
+                    ],
+                    [
+                        925,
+                        529
+                    ],
+                    [
+                        966,
+                        498
+                    ],
+                    [
+                        982,
+                        423
+                    ],
+                    [
+                        968,
+                        410
+                    ],
+                    [
+                        897,
+                        388
+                    ],
+                    [
+                        856,
+                        336
+                    ],
+                    [
+                        758,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589341,
+            "classId": 6510459,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.683Z",
+            "updatedAt": "2024-01-06T16:11:22.683Z",
+            "tags": [
+                {
+                    "id": 89756686,
+                    "tagId": 28879,
+                    "name": "general defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.682Z",
+                    "updatedAt": "2024-01-06T16:11:22.682Z"
+                }
+            ],
+            "classTitle": "rust",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        959
+                    ],
+                    [
+                        538,
+                        835
+                    ],
+                    [
+                        592,
+                        709
+                    ],
+                    [
+                        543,
+                        633
+                    ],
+                    [
+                        558,
+                        609
+                    ],
+                    [
+                        610,
+                        664
+                    ],
+                    [
+                        668,
+                        759
+                    ],
+                    [
+                        773,
+                        883
+                    ],
+                    [
+                        840,
+                        909
+                    ],
+                    [
+                        839,
+                        959
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589340,
+            "classId": 6510459,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.682Z",
+            "updatedAt": "2024-01-06T16:11:22.682Z",
+            "tags": [
+                {
+                    "id": 89756685,
+                    "tagId": 28879,
+                    "name": "general defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.681Z",
+                    "updatedAt": "2024-01-06T16:11:22.681Z"
+                }
+            ],
+            "classTitle": "rust",
+            "points": {
+                "exterior": [
+                    [
+                        929,
+                        386
+                    ],
+                    [
+                        1099,
+                        640
+                    ],
+                    [
+                        1169,
+                        875
+                    ],
+                    [
+                        1216,
+                        833
+                    ],
+                    [
+                        1234,
+                        742
+                    ],
+                    [
+                        1227,
+                        616
+                    ],
+                    [
+                        1127,
+                        494
+                    ],
+                    [
+                        1073,
+                        401
+                    ],
+                    [
+                        1003,
+                        299
+                    ],
+                    [
+                        925,
+                        270
+                    ],
+                    [
+                        905,
+                        338
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589339,
+            "classId": 6510468,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.681Z",
+            "updatedAt": "2024-01-06T16:11:22.681Z",
+            "tags": [
+                {
+                    "id": 89756684,
+                    "tagId": 28879,
+                    "name": "general defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.681Z",
+                    "updatedAt": "2024-01-06T16:11:22.681Z"
+                }
+            ],
+            "classTitle": "wetspot",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        336
+                    ],
+                    [
+                        516,
+                        464
+                    ],
+                    [
+                        690,
+                        557
+                    ],
+                    [
+                        855,
+                        959
+                    ],
+                    [
+                        1279,
+                        959
+                    ],
+                    [
+                        1279,
+                        0
+                    ],
+                    [
+                        926,
+                        0
+                    ],
+                    [
+                        655,
+                        164
+                    ],
+                    [
+                        0,
+                        174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589338,
+            "classId": 6510465,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.681Z",
+            "updatedAt": "2024-01-06T16:11:22.681Z",
+            "tags": [
+                {
+                    "id": 89756683,
+                    "tagId": 28880,
+                    "name": "concrete defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.681Z",
+                    "updatedAt": "2024-01-06T16:11:22.681Z"
+                }
+            ],
+            "classTitle": "spalling",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        266
+                    ],
+                    [
+                        71,
+                        322
+                    ],
+                    [
+                        174,
+                        278
+                    ],
+                    [
+                        347,
+                        308
+                    ],
+                    [
+                        406,
+                        402
+                    ],
+                    [
+                        726,
+                        456
+                    ],
+                    [
+                        732,
+                        400
+                    ],
+                    [
+                        633,
+                        365
+                    ],
+                    [
+                        445,
+                        333
+                    ],
+                    [
+                        455,
+                        322
+                    ],
+                    [
+                        578,
+                        333
+                    ],
+                    [
+                        755,
+                        372
+                    ],
+                    [
+                        829,
+                        342
+                    ],
+                    [
+                        71,
+                        173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 122589337,
+            "classId": 6510459,
+            "objectId": null,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-01-06T16:11:22.680Z",
+            "updatedAt": "2024-01-06T16:11:22.680Z",
+            "tags": [
+                {
+                    "id": 89756682,
+                    "tagId": 28879,
+                    "name": "general defect",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-01-06T16:11:22.680Z",
+                    "updatedAt": "2024-01-06T16:11:22.680Z"
+                }
+            ],
+            "classTitle": "rust",
+            "points": {
+                "exterior": [
+                    [
+                        911,
+                        904
+                    ],
+                    [
+                        918,
+                        957
+                    ],
+                    [
+                        978,
+                        957
+                    ],
+                    [
+                        946,
+                        893
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
